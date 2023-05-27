@@ -529,7 +529,10 @@ img {
 }
 
 .skills__wordpress {
-  width: 70%;
+  width: 50%;
+}
+.skills__react {
+  width: 50%;
 }
 
 .skills__python {
@@ -544,11 +547,11 @@ img {
   width: 50%;
 }
 
-.skills__google {
+.skills__excel {
   width: 70%;
 }
 
-.skills__bank {
+.skills__CloudComputing {
   width: 80%;
 }
 
@@ -556,7 +559,7 @@ img {
   width: 70%;
 }
 
-.skills__counter {
+.skills__java {
   width: 80%;
 }
 
